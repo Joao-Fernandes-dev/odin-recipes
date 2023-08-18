@@ -1,0 +1,13 @@
+body {
+    font-family: 'Lucida Console', Courier, monospace;
+    color: white;
+    background-color: #333333
+}
+
+.list {
+    font-family: 'Lucida Console', Courier, monospace;
+}
+
+a {
+    color: white;
+}
